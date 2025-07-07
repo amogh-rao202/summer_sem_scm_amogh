@@ -7,3 +7,5 @@ btech cse aiml
 cafe ccd
 
 amogh
+
+male
