@@ -9,3 +9,6 @@ cafe ccd
 amogh
 
 male
+
+hi
+my name is Amogh
