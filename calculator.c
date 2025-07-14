@@ -12,3 +12,12 @@ int main() {
 
     printf("Enter second number: ");
     scanf("%f", &num2);
+    if(op == '+') {
+        printf("Result: %.2f\n", num1 + num2);
+    }
+    else if(op == '-') {
+        printf("Result: %.2f\n", num1 - num2);
+    }
+    else if(op == '*') {
+        printf("Result: %.2f\n", num1 * num2);
+    }
